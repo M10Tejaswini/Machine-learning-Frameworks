@@ -1,1 +1,1 @@
-# CSCN8010-LABS
+# Machine learning frameworks
